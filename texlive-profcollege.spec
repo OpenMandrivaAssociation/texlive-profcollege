@@ -1,6 +1,6 @@
 Name:		texlive-profcollege
 Version:	64918
-Release:	1
+Release:	2
 Summary:	A LaTeX package for French maths teachers in college
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/profcollege
