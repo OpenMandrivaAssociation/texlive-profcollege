@@ -1,5 +1,5 @@
 Name:		texlive-profcollege
-Version:	69539
+Version:	72198
 Release:	1
 Summary:	A LaTeX package for French maths teachers in college
 Group:		Publishing
