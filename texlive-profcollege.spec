@@ -3,7 +3,7 @@ Version:	72198
 Release:	1
 Summary:	A LaTeX package for French maths teachers in college
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/profcollege
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/profcollege
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/profcollege.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/profcollege.doc.r%{version}.tar.xz
